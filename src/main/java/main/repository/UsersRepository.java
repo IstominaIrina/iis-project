@@ -1,4 +1,4 @@
-package main.pepository;
+package main.repository;
 
 import main.model.User;
 import org.springframework.data.repository.CrudRepository;

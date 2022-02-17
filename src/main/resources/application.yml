@@ -3,3 +3,12 @@ spring.datasource.username: root
 spring.datasource.password: root1234
 spring.jpa.hibernate.ddl-auto: create
 
+blog:
+  title: MasterPub
+  subtitle: Истории разработчиков
+  phone: +7 914 777-33-55
+  email: mail@mail.ru
+  copyright: Ирина Истомина
+  copyrightFrom: 2022
+
+
